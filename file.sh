@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo touch file{1..5}
+sudo touch file{6..9}
